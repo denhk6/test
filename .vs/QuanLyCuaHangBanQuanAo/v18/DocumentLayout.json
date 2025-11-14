@@ -1,12 +1,349 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\OneDrive\\Documents\\GitHub\\test\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB72322E-5723-4CEE-878F-2C4B05F94973}|QuanLyCuaHangBanQuanAo\\QuanLyCuaHangBanQuanAo.csproj|c:\\users\\admin\\onedrive\\documents\\github\\test\\quanlycuahangbanquanao\\gui\\frmchitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB72322E-5723-4CEE-878F-2C4B05F94973}|QuanLyCuaHangBanQuanAo\\QuanLyCuaHangBanQuanAo.csproj|solutionrelative:quanlycuahangbanquanao\\gui\\frmchitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB72322E-5723-4CEE-878F-2C4B05F94973}|QuanLyCuaHangBanQuanAo\\QuanLyCuaHangBanQuanAo.csproj|c:\\users\\admin\\onedrive\\documents\\github\\test\\quanlycuahangbanquanao\\gui\\frmbaocaotonkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB72322E-5723-4CEE-878F-2C4B05F94973}|QuanLyCuaHangBanQuanAo\\QuanLyCuaHangBanQuanAo.csproj|solutionrelative:quanlycuahangbanquanao\\gui\\frmbaocaotonkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB72322E-5723-4CEE-878F-2C4B05F94973}|QuanLyCuaHangBanQuanAo\\QuanLyCuaHangBanQuanAo.csproj|c:\\users\\admin\\onedrive\\documents\\github\\test\\quanlycuahangbanquanao\\gui\\frmbaocaokhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB72322E-5723-4CEE-878F-2C4B05F94973}|QuanLyCuaHangBanQuanAo\\QuanLyCuaHangBanQuanAo.csproj|solutionrelative:quanlycuahangbanquanao\\gui\\frmbaocaokhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB72322E-5723-4CEE-878F-2C4B05F94973}|QuanLyCuaHangBanQuanAo\\QuanLyCuaHangBanQuanAo.csproj|c:\\users\\admin\\onedrive\\documents\\github\\test\\quanlycuahangbanquanao\\gui\\frmbaocaodoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB72322E-5723-4CEE-878F-2C4B05F94973}|QuanLyCuaHangBanQuanAo\\QuanLyCuaHangBanQuanAo.csproj|solutionrelative:quanlycuahangbanquanao\\gui\\frmbaocaodoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB72322E-5723-4CEE-878F-2C4B05F94973}|QuanLyCuaHangBanQuanAo\\QuanLyCuaHangBanQuanAo.csproj|c:\\users\\admin\\onedrive\\documents\\github\\test\\quanlycuahangbanquanao\\bll\\baocaobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB72322E-5723-4CEE-878F-2C4B05F94973}|QuanLyCuaHangBanQuanAo\\QuanLyCuaHangBanQuanAo.csproj|solutionrelative:quanlycuahangbanquanao\\bll\\baocaobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB72322E-5723-4CEE-878F-2C4B05F94973}|QuanLyCuaHangBanQuanAo\\QuanLyCuaHangBanQuanAo.csproj|c:\\users\\admin\\onedrive\\documents\\github\\test\\quanlycuahangbanquanao\\gui\\frmbaocaotonkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB72322E-5723-4CEE-878F-2C4B05F94973}|QuanLyCuaHangBanQuanAo\\QuanLyCuaHangBanQuanAo.csproj|solutionrelative:quanlycuahangbanquanao\\gui\\frmbaocaotonkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB72322E-5723-4CEE-878F-2C4B05F94973}|QuanLyCuaHangBanQuanAo\\QuanLyCuaHangBanQuanAo.csproj|c:\\users\\admin\\onedrive\\documents\\github\\test\\quanlycuahangbanquanao\\gui\\frmbaocaodoanhthu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB72322E-5723-4CEE-878F-2C4B05F94973}|QuanLyCuaHangBanQuanAo\\QuanLyCuaHangBanQuanAo.csproj|solutionrelative:quanlycuahangbanquanao\\gui\\frmbaocaodoanhthu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB72322E-5723-4CEE-878F-2C4B05F94973}|QuanLyCuaHangBanQuanAo\\QuanLyCuaHangBanQuanAo.csproj|c:\\users\\admin\\onedrive\\documents\\github\\test\\quanlycuahangbanquanao\\dal\\quanlyshopdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB72322E-5723-4CEE-878F-2C4B05F94973}|QuanLyCuaHangBanQuanAo\\QuanLyCuaHangBanQuanAo.csproj|solutionrelative:quanlycuahangbanquanao\\dal\\quanlyshopdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB72322E-5723-4CEE-878F-2C4B05F94973}|QuanLyCuaHangBanQuanAo\\QuanLyCuaHangBanQuanAo.csproj|c:\\users\\admin\\onedrive\\documents\\github\\test\\quanlycuahangbanquanao\\gui\\frmbaocaokhachhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB72322E-5723-4CEE-878F-2C4B05F94973}|QuanLyCuaHangBanQuanAo\\QuanLyCuaHangBanQuanAo.csproj|solutionrelative:quanlycuahangbanquanao\\gui\\frmbaocaokhachhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB72322E-5723-4CEE-878F-2C4B05F94973}|QuanLyCuaHangBanQuanAo\\QuanLyCuaHangBanQuanAo.csproj|c:\\users\\admin\\onedrive\\documents\\github\\test\\quanlycuahangbanquanao\\gui\\frmbaocaokhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB72322E-5723-4CEE-878F-2C4B05F94973}|QuanLyCuaHangBanQuanAo\\QuanLyCuaHangBanQuanAo.csproj|solutionrelative:quanlycuahangbanquanao\\gui\\frmbaocaokhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB72322E-5723-4CEE-878F-2C4B05F94973}|QuanLyCuaHangBanQuanAo\\QuanLyCuaHangBanQuanAo.csproj|c:\\users\\admin\\onedrive\\documents\\github\\test\\quanlycuahangbanquanao\\gui\\frmbaocaodoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB72322E-5723-4CEE-878F-2C4B05F94973}|QuanLyCuaHangBanQuanAo\\QuanLyCuaHangBanQuanAo.csproj|solutionrelative:quanlycuahangbanquanao\\gui\\frmbaocaodoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB72322E-5723-4CEE-878F-2C4B05F94973}|QuanLyCuaHangBanQuanAo\\QuanLyCuaHangBanQuanAo.csproj|c:\\users\\admin\\onedrive\\documents\\github\\test\\quanlycuahangbanquanao\\gui\\frmbaocaotonkho.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB72322E-5723-4CEE-878F-2C4B05F94973}|QuanLyCuaHangBanQuanAo\\QuanLyCuaHangBanQuanAo.csproj|solutionrelative:quanlycuahangbanquanao\\gui\\frmbaocaotonkho.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB72322E-5723-4CEE-878F-2C4B05F94973}|QuanLyCuaHangBanQuanAo\\QuanLyCuaHangBanQuanAo.csproj|c:\\users\\admin\\onedrive\\documents\\github\\test\\quanlycuahangbanquanao\\gui\\frmdoimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB72322E-5723-4CEE-878F-2C4B05F94973}|QuanLyCuaHangBanQuanAo\\QuanLyCuaHangBanQuanAo.csproj|solutionrelative:quanlycuahangbanquanao\\gui\\frmdoimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB72322E-5723-4CEE-878F-2C4B05F94973}|QuanLyCuaHangBanQuanAo\\QuanLyCuaHangBanQuanAo.csproj|c:\\users\\admin\\onedrive\\documents\\github\\test\\quanlycuahangbanquanao\\gui\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB72322E-5723-4CEE-878F-2C4B05F94973}|QuanLyCuaHangBanQuanAo\\QuanLyCuaHangBanQuanAo.csproj|solutionrelative:quanlycuahangbanquanao\\gui\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB72322E-5723-4CEE-878F-2C4B05F94973}|QuanLyCuaHangBanQuanAo\\QuanLyCuaHangBanQuanAo.csproj|c:\\users\\admin\\onedrive\\documents\\github\\test\\quanlycuahangbanquanao\\gui\\frmgioithieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB72322E-5723-4CEE-878F-2C4B05F94973}|QuanLyCuaHangBanQuanAo\\QuanLyCuaHangBanQuanAo.csproj|solutionrelative:quanlycuahangbanquanao\\gui\\frmgioithieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB72322E-5723-4CEE-878F-2C4B05F94973}|QuanLyCuaHangBanQuanAo\\QuanLyCuaHangBanQuanAo.csproj|c:\\users\\admin\\onedrive\\documents\\github\\test\\quanlycuahangbanquanao\\gui\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB72322E-5723-4CEE-878F-2C4B05F94973}|QuanLyCuaHangBanQuanAo\\QuanLyCuaHangBanQuanAo.csproj|solutionrelative:quanlycuahangbanquanao\\gui\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB72322E-5723-4CEE-878F-2C4B05F94973}|QuanLyCuaHangBanQuanAo\\QuanLyCuaHangBanQuanAo.csproj|c:\\users\\admin\\onedrive\\documents\\github\\test\\quanlycuahangbanquanao\\gui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB72322E-5723-4CEE-878F-2C4B05F94973}|QuanLyCuaHangBanQuanAo\\QuanLyCuaHangBanQuanAo.csproj|solutionrelative:quanlycuahangbanquanao\\gui\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB72322E-5723-4CEE-878F-2C4B05F94973}|QuanLyCuaHangBanQuanAo\\QuanLyCuaHangBanQuanAo.csproj|c:\\users\\admin\\onedrive\\documents\\github\\test\\quanlycuahangbanquanao\\gui\\frmtimkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB72322E-5723-4CEE-878F-2C4B05F94973}|QuanLyCuaHangBanQuanAo\\QuanLyCuaHangBanQuanAo.csproj|solutionrelative:quanlycuahangbanquanao\\gui\\frmtimkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB72322E-5723-4CEE-878F-2C4B05F94973}|QuanLyCuaHangBanQuanAo\\QuanLyCuaHangBanQuanAo.csproj|c:\\users\\admin\\onedrive\\documents\\github\\test\\quanlycuahangbanquanao\\gui\\frmtimkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB72322E-5723-4CEE-878F-2C4B05F94973}|QuanLyCuaHangBanQuanAo\\QuanLyCuaHangBanQuanAo.csproj|solutionrelative:quanlycuahangbanquanao\\gui\\frmtimkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB72322E-5723-4CEE-878F-2C4B05F94973}|QuanLyCuaHangBanQuanAo\\QuanLyCuaHangBanQuanAo.csproj|c:\\users\\admin\\onedrive\\documents\\github\\test\\quanlycuahangbanquanao\\gui\\frmtimsanpham..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB72322E-5723-4CEE-878F-2C4B05F94973}|QuanLyCuaHangBanQuanAo\\QuanLyCuaHangBanQuanAo.csproj|solutionrelative:quanlycuahangbanquanao\\gui\\frmtimsanpham..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmBaoCaoTonKho.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Documents\\GitHub\\test\\QuanLyCuaHangBanQuanAo\\GUI\\FrmBaoCaoTonKho.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangBanQuanAo\\GUI\\FrmBaoCaoTonKho.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Documents\\GitHub\\test\\QuanLyCuaHangBanQuanAo\\GUI\\FrmBaoCaoTonKho.cs [Design]",
+              "RelativeToolTip": "QuanLyCuaHangBanQuanAo\\GUI\\FrmBaoCaoTonKho.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T21:43:56.823Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmBaoCaoKhachHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Documents\\GitHub\\test\\QuanLyCuaHangBanQuanAo\\GUI\\frmBaoCaoKhachHang.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangBanQuanAo\\GUI\\frmBaoCaoKhachHang.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Documents\\GitHub\\test\\QuanLyCuaHangBanQuanAo\\GUI\\frmBaoCaoKhachHang.cs [Design]",
+              "RelativeToolTip": "QuanLyCuaHangBanQuanAo\\GUI\\frmBaoCaoKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T21:43:54.549Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmChiTietHoaDon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Documents\\GitHub\\test\\QuanLyCuaHangBanQuanAo\\GUI\\frmChiTietHoaDon.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangBanQuanAo\\GUI\\frmChiTietHoaDon.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Documents\\GitHub\\test\\QuanLyCuaHangBanQuanAo\\GUI\\frmChiTietHoaDon.cs [Design]",
+              "RelativeToolTip": "QuanLyCuaHangBanQuanAo\\GUI\\frmChiTietHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T21:27:08.516Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmBaoCaoDoanhThu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Documents\\GitHub\\test\\QuanLyCuaHangBanQuanAo\\GUI\\frmBaoCaoDoanhThu.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangBanQuanAo\\GUI\\frmBaoCaoDoanhThu.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Documents\\GitHub\\test\\QuanLyCuaHangBanQuanAo\\GUI\\frmBaoCaoDoanhThu.cs [Design]",
+              "RelativeToolTip": "QuanLyCuaHangBanQuanAo\\GUI\\frmBaoCaoDoanhThu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T21:43:41.465Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaoCaoBLL.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Documents\\GitHub\\test\\QuanLyCuaHangBanQuanAo\\BLL\\BaoCaoBLL.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangBanQuanAo\\BLL\\BaoCaoBLL.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Documents\\GitHub\\test\\QuanLyCuaHangBanQuanAo\\BLL\\BaoCaoBLL.cs",
+              "RelativeToolTip": "QuanLyCuaHangBanQuanAo\\BLL\\BaoCaoBLL.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T21:32:15.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QuanLyShopDataContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Documents\\GitHub\\test\\QuanLyCuaHangBanQuanAo\\DAL\\QuanLyShopDataContext.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangBanQuanAo\\DAL\\QuanLyShopDataContext.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Documents\\GitHub\\test\\QuanLyCuaHangBanQuanAo\\DAL\\QuanLyShopDataContext.cs",
+              "RelativeToolTip": "QuanLyCuaHangBanQuanAo\\DAL\\QuanLyShopDataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T21:35:14.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmBaoCaoDoanhThu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Documents\\GitHub\\test\\QuanLyCuaHangBanQuanAo\\GUI\\frmBaoCaoDoanhThu.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangBanQuanAo\\GUI\\frmBaoCaoDoanhThu.Designer.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Documents\\GitHub\\test\\QuanLyCuaHangBanQuanAo\\GUI\\frmBaoCaoDoanhThu.Designer.cs",
+              "RelativeToolTip": "QuanLyCuaHangBanQuanAo\\GUI\\frmBaoCaoDoanhThu.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T21:35:54.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmBaoCaoTonKho.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Documents\\GitHub\\test\\QuanLyCuaHangBanQuanAo\\GUI\\FrmBaoCaoTonKho.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangBanQuanAo\\GUI\\FrmBaoCaoTonKho.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Documents\\GitHub\\test\\QuanLyCuaHangBanQuanAo\\GUI\\FrmBaoCaoTonKho.cs",
+              "RelativeToolTip": "QuanLyCuaHangBanQuanAo\\GUI\\FrmBaoCaoTonKho.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T21:29:41.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmBaoCaoKhachHang.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Documents\\GitHub\\test\\QuanLyCuaHangBanQuanAo\\GUI\\frmBaoCaoKhachHang.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangBanQuanAo\\GUI\\frmBaoCaoKhachHang.Designer.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Documents\\GitHub\\test\\QuanLyCuaHangBanQuanAo\\GUI\\frmBaoCaoKhachHang.Designer.cs",
+              "RelativeToolTip": "QuanLyCuaHangBanQuanAo\\GUI\\frmBaoCaoKhachHang.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T21:36:31.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmBaoCaoKhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Documents\\GitHub\\test\\QuanLyCuaHangBanQuanAo\\GUI\\frmBaoCaoKhachHang.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangBanQuanAo\\GUI\\frmBaoCaoKhachHang.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Documents\\GitHub\\test\\QuanLyCuaHangBanQuanAo\\GUI\\frmBaoCaoKhachHang.cs",
+              "RelativeToolTip": "QuanLyCuaHangBanQuanAo\\GUI\\frmBaoCaoKhachHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T21:36:17.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmBaoCaoTonKho.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Documents\\GitHub\\test\\QuanLyCuaHangBanQuanAo\\GUI\\frmBaoCaoTonKho.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangBanQuanAo\\GUI\\frmBaoCaoTonKho.Designer.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Documents\\GitHub\\test\\QuanLyCuaHangBanQuanAo\\GUI\\frmBaoCaoTonKho.Designer.cs",
+              "RelativeToolTip": "QuanLyCuaHangBanQuanAo\\GUI\\frmBaoCaoTonKho.Designer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T21:33:26.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmBaoCaoDoanhThu.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Documents\\GitHub\\test\\QuanLyCuaHangBanQuanAo\\GUI\\frmBaoCaoDoanhThu.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangBanQuanAo\\GUI\\frmBaoCaoDoanhThu.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Documents\\GitHub\\test\\QuanLyCuaHangBanQuanAo\\GUI\\frmBaoCaoDoanhThu.cs",
+              "RelativeToolTip": "QuanLyCuaHangBanQuanAo\\GUI\\frmBaoCaoDoanhThu.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAiwAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T21:33:02.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmDoiMatKhau.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Documents\\GitHub\\test\\QuanLyCuaHangBanQuanAo\\GUI\\frmDoiMatKhau.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangBanQuanAo\\GUI\\frmDoiMatKhau.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Documents\\GitHub\\test\\QuanLyCuaHangBanQuanAo\\GUI\\frmDoiMatKhau.cs [Design]",
+              "RelativeToolTip": "QuanLyCuaHangBanQuanAo\\GUI\\frmDoiMatKhau.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T21:27:06.698Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmDangNhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Documents\\GitHub\\test\\QuanLyCuaHangBanQuanAo\\GUI\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangBanQuanAo\\GUI\\frmDangNhap.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Documents\\GitHub\\test\\QuanLyCuaHangBanQuanAo\\GUI\\frmDangNhap.cs [Design]",
+              "RelativeToolTip": "QuanLyCuaHangBanQuanAo\\GUI\\frmDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T21:27:05.47Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmGioiThieu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Documents\\GitHub\\test\\QuanLyCuaHangBanQuanAo\\GUI\\frmGioiThieu.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangBanQuanAo\\GUI\\frmGioiThieu.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Documents\\GitHub\\test\\QuanLyCuaHangBanQuanAo\\GUI\\frmGioiThieu.cs [Design]",
+              "RelativeToolTip": "QuanLyCuaHangBanQuanAo\\GUI\\frmGioiThieu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T21:27:04.018Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmHoaDon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Documents\\GitHub\\test\\QuanLyCuaHangBanQuanAo\\GUI\\frmHoaDon.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangBanQuanAo\\GUI\\frmHoaDon.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Documents\\GitHub\\test\\QuanLyCuaHangBanQuanAo\\GUI\\frmHoaDon.cs [Design]",
+              "RelativeToolTip": "QuanLyCuaHangBanQuanAo\\GUI\\frmHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T21:27:02.547Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Documents\\GitHub\\test\\QuanLyCuaHangBanQuanAo\\GUI\\frmMain.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangBanQuanAo\\GUI\\frmMain.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Documents\\GitHub\\test\\QuanLyCuaHangBanQuanAo\\GUI\\frmMain.cs [Design]",
+              "RelativeToolTip": "QuanLyCuaHangBanQuanAo\\GUI\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T21:27:00.933Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmTimKhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Documents\\GitHub\\test\\QuanLyCuaHangBanQuanAo\\GUI\\frmTimKhachHang.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangBanQuanAo\\GUI\\frmTimKhachHang.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Documents\\GitHub\\test\\QuanLyCuaHangBanQuanAo\\GUI\\frmTimKhachHang.cs",
+              "RelativeToolTip": "QuanLyCuaHangBanQuanAo\\GUI\\frmTimKhachHang.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T21:26:35.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmTimKhachHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Documents\\GitHub\\test\\QuanLyCuaHangBanQuanAo\\GUI\\frmTimKhachHang.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangBanQuanAo\\GUI\\frmTimKhachHang.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Documents\\GitHub\\test\\QuanLyCuaHangBanQuanAo\\GUI\\frmTimKhachHang.cs [Design]",
+              "RelativeToolTip": "QuanLyCuaHangBanQuanAo\\GUI\\frmTimKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T21:26:32.177Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmTimSanPham..cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Documents\\GitHub\\test\\QuanLyCuaHangBanQuanAo\\GUI\\frmTimSanPham..cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangBanQuanAo\\GUI\\frmTimSanPham..cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Documents\\GitHub\\test\\QuanLyCuaHangBanQuanAo\\GUI\\frmTimSanPham..cs [Design]",
+              "RelativeToolTip": "QuanLyCuaHangBanQuanAo\\GUI\\frmTimSanPham..cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T21:26:29.281Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

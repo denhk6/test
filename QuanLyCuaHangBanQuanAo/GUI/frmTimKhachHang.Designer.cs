@@ -18,7 +18,7 @@ namespace QuanLyCuaHangBanQuanAo.GUI
             // 
             this.txtSearch.Location = new System.Drawing.Point(12, 12);
             this.txtSearch.Name = "txtSearch";
-            this.txtSearch.Size = new System.Drawing.Size(200, 22);
+            this.txtSearch.Size = new System.Drawing.Size(200, 26);
             this.txtSearch.TabIndex = 0;
             // 
             // btnSearch
@@ -35,16 +35,17 @@ namespace QuanLyCuaHangBanQuanAo.GUI
             // 
             this.dgvTimKhachHang.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvTimKhachHang.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.dgvTimKhachHang.Location = new System.Drawing.Point(0, 50);
+            this.dgvTimKhachHang.Location = new System.Drawing.Point(0, 0);
             this.dgvTimKhachHang.Name = "dgvTimKhachHang";
+            this.dgvTimKhachHang.RowHeadersWidth = 62;
             this.dgvTimKhachHang.RowTemplate.Height = 24;
-            this.dgvTimKhachHang.Size = new System.Drawing.Size(800, 400);
+            this.dgvTimKhachHang.Size = new System.Drawing.Size(994, 768);
             this.dgvTimKhachHang.TabIndex = 2;
             this.dgvTimKhachHang.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvTimKhachHang_CellDoubleClick);
             // 
             // frmTimKhachHang
             // 
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(994, 768);
             this.Controls.Add(this.dgvTimKhachHang);
             this.Controls.Add(this.btnSearch);
             this.Controls.Add(this.txtSearch);
@@ -53,6 +54,7 @@ namespace QuanLyCuaHangBanQuanAo.GUI
             ((System.ComponentModel.ISupportInitialize)(this.dgvTimKhachHang)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
+
         }
 
         private System.Windows.Forms.TextBox txtSearch;

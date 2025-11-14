@@ -47,14 +47,14 @@ namespace QuanLyCuaHangBanQuanAo.BLL
                             MaHD = ct.MaHD,
                             MaSP = ct.MaSP,
                             TenSP = sp.TenSP, // Join để lấy tên SP
-                            SoLuong = ct.SoLuong.GetValueOrDefault(0),
-                            DonGia = ct.DonGia.GetValueOrDefault(0),
+                            SoLuong = ct.SoLuong,
+                            DonGia = ct.DonGia,
                             ThanhTien = ct.ThanhTien.GetValueOrDefault(0)
                         };
             return query.ToList();
         }
 
- /// <summary>
+        /// <summary>
         /// Tạo một hóa đơn mới và các chi tiết của nó
         /// Đây là nghiệp vụ quan trọng, phải dùng Transaction
         /// </summary>
@@ -122,7 +122,7 @@ namespace QuanLyCuaHangBanQuanAo.BLL
                     return newMaHD;
                 }
                 catch (Exception)
-            {
+                {
                     // Nếu có lỗi, mọi thứ sẽ được rollback (vì chúng ta chưa Commit)
                     // Tuy nhiên, vì đã gọi SubmitChanges() 1 lần, chúng ta cần rollback thủ công
                     // Cách tốt hơn là dùng 1 lần SubmitChanges() duy nhất.
@@ -144,7 +144,11 @@ namespace QuanLyCuaHangBanQuanAo.BLL
                     // (vì scope.Complete() không được gọi)
 
                     throw; // Ném lỗi ra GUI
-            }
+                }
 
+            }
+        }
+    }
+}
 
 

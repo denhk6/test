@@ -53,6 +53,41 @@ namespace QuanLyCuaHangBanQuanAo.GUI
         BindingList<DTO.ChiTietHoaDon> gioHang = new BindingList<DTO.ChiTietHoaDon>();
         DTO.KhachHang khachHangHienTai = null;
         private BackgroundWorker backgroundWorker1;
+        private Label lblNgayLap;
+        private Label lblMaHD;
+        private Label lblTenNV;
+        private TextBox txtSoDienThoai;
+        private TextBox txtMaKH;
+        private TextBox txtTenKH;
+        private Button btnTimKhachHang;
+        private TextBox txtTimMaSP;
+        private Button btnTimSanPham;
+        private Label lblTenSP;
+        private Label lblDonGia;
+        private NumericUpDown nudSoLuong;
+        private Button btnThemSanPham;
+        private DataGridView dgvGioHang;
+        private DataGridViewButtonColumn btnXoa;
+        private Label lblTongTien;
+        private TextBox txtGiamGia;
+        private Label lblThanhTien;
+        private Button btnTaoHoaDon;
+        private Button btnHuyHoaDon;
+        private Label label1;
+        private Label label2;
+        private Label label3;
+        private Label label4;
+        private Label label5;
+        private Label label6;
+        private Label label7;
+        private Label label8;
+        private Label label9;
+        private Label label10;
+        private Label label11;
+        private Label label12;
+        private Label label13;
+        private Label label14;
+        private Label label15;
         DTO.SanPham sanPhamHienTai = null;
         // DTO.NhanVien nhanVienHienTai = GlobalData.CurrentNhanVien; // Lấy NV đã đăng nhập
 
@@ -296,17 +331,302 @@ namespace QuanLyCuaHangBanQuanAo.GUI
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmHoaDon));
             this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
+            this.lblNgayLap = new System.Windows.Forms.Label();
+            this.lblMaHD = new System.Windows.Forms.Label();
+            this.lblTenNV = new System.Windows.Forms.Label();
+            this.txtSoDienThoai = new System.Windows.Forms.TextBox();
+            this.txtMaKH = new System.Windows.Forms.TextBox();
+            this.txtTenKH = new System.Windows.Forms.TextBox();
+            this.btnTimKhachHang = new System.Windows.Forms.Button();
+            this.txtTimMaSP = new System.Windows.Forms.TextBox();
+            this.btnTimSanPham = new System.Windows.Forms.Button();
+            this.lblTenSP = new System.Windows.Forms.Label();
+            this.lblDonGia = new System.Windows.Forms.Label();
+            this.nudSoLuong = new System.Windows.Forms.NumericUpDown();
+            this.btnThemSanPham = new System.Windows.Forms.Button();
+            this.dgvGioHang = new System.Windows.Forms.DataGridView();
+            this.btnXoa = new System.Windows.Forms.DataGridViewButtonColumn();
+            this.lblTongTien = new System.Windows.Forms.Label();
+            this.txtGiamGia = new System.Windows.Forms.TextBox();
+            this.lblThanhTien = new System.Windows.Forms.Label();
+            this.btnTaoHoaDon = new System.Windows.Forms.Button();
+            this.btnHuyHoaDon = new System.Windows.Forms.Button();
+            this.label1 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
+            this.label7 = new System.Windows.Forms.Label();
+            this.label8 = new System.Windows.Forms.Label();
+            this.label9 = new System.Windows.Forms.Label();
+            this.label10 = new System.Windows.Forms.Label();
+            this.label11 = new System.Windows.Forms.Label();
+            this.label12 = new System.Windows.Forms.Label();
+            this.label13 = new System.Windows.Forms.Label();
+            this.label14 = new System.Windows.Forms.Label();
+            this.label15 = new System.Windows.Forms.Label();
+            ((System.ComponentModel.ISupportInitialize)(this.nudSoLuong)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvGioHang)).BeginInit();
             this.SuspendLayout();
+            // 
+            // backgroundWorker1
+            // 
+            this.backgroundWorker1.DoWork += new System.ComponentModel.DoWorkEventHandler(this.backgroundWorker1_DoWork);
+            // 
+            // lblNgayLap
+            // 
+            resources.ApplyResources(this.lblNgayLap, "lblNgayLap");
+            this.lblNgayLap.Name = "lblNgayLap";
+            // 
+            // lblMaHD
+            // 
+            resources.ApplyResources(this.lblMaHD, "lblMaHD");
+            this.lblMaHD.Name = "lblMaHD";
+            // 
+            // lblTenNV
+            // 
+            resources.ApplyResources(this.lblTenNV, "lblTenNV");
+            this.lblTenNV.Name = "lblTenNV";
+            // 
+            // txtSoDienThoai
+            // 
+            resources.ApplyResources(this.txtSoDienThoai, "txtSoDienThoai");
+            this.txtSoDienThoai.Name = "txtSoDienThoai";
+            // 
+            // txtMaKH
+            // 
+            resources.ApplyResources(this.txtMaKH, "txtMaKH");
+            this.txtMaKH.Name = "txtMaKH";
+            this.txtMaKH.ReadOnly = true;
+            // 
+            // txtTenKH
+            // 
+            resources.ApplyResources(this.txtTenKH, "txtTenKH");
+            this.txtTenKH.Name = "txtTenKH";
+            this.txtTenKH.ReadOnly = true;
+            this.txtTenKH.TextChanged += new System.EventHandler(this.txtTenKH_TextChanged);
+            // 
+            // btnTimKhachHang
+            // 
+            resources.ApplyResources(this.btnTimKhachHang, "btnTimKhachHang");
+            this.btnTimKhachHang.Name = "btnTimKhachHang";
+            this.btnTimKhachHang.UseVisualStyleBackColor = true;
+            this.btnTimKhachHang.Click += new System.EventHandler(this.btnTimKhachHang_Click);
+            // 
+            // txtTimMaSP
+            // 
+            resources.ApplyResources(this.txtTimMaSP, "txtTimMaSP");
+            this.txtTimMaSP.Name = "txtTimMaSP";
+            // 
+            // btnTimSanPham
+            // 
+            resources.ApplyResources(this.btnTimSanPham, "btnTimSanPham");
+            this.btnTimSanPham.Name = "btnTimSanPham";
+            this.btnTimSanPham.UseVisualStyleBackColor = true;
+            this.btnTimSanPham.Click += new System.EventHandler(this.btnTimSanPham_Click);
+            // 
+            // lblTenSP
+            // 
+            resources.ApplyResources(this.lblTenSP, "lblTenSP");
+            this.lblTenSP.Name = "lblTenSP";
+            // 
+            // lblDonGia
+            // 
+            resources.ApplyResources(this.lblDonGia, "lblDonGia");
+            this.lblDonGia.Name = "lblDonGia";
+            // 
+            // nudSoLuong
+            // 
+            resources.ApplyResources(this.nudSoLuong, "nudSoLuong");
+            this.nudSoLuong.Minimum = new decimal(new int[] {
+            1,
+            0,
+            0,
+            0});
+            this.nudSoLuong.Name = "nudSoLuong";
+            this.nudSoLuong.Value = new decimal(new int[] {
+            1,
+            0,
+            0,
+            0});
+            // 
+            // btnThemSanPham
+            // 
+            resources.ApplyResources(this.btnThemSanPham, "btnThemSanPham");
+            this.btnThemSanPham.Name = "btnThemSanPham";
+            this.btnThemSanPham.UseVisualStyleBackColor = true;
+            this.btnThemSanPham.Click += new System.EventHandler(this.btnThemSanPham_Click_1);
+            // 
+            // dgvGioHang
+            // 
+            this.dgvGioHang.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgvGioHang.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.btnXoa});
+            resources.ApplyResources(this.dgvGioHang, "dgvGioHang");
+            this.dgvGioHang.Name = "dgvGioHang";
+            this.dgvGioHang.RowTemplate.Height = 28;
+            this.dgvGioHang.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvGioHang_CellContentClick);
+            // 
+            // btnXoa
+            // 
+            resources.ApplyResources(this.btnXoa, "btnXoa");
+            this.btnXoa.Name = "btnXoa";
+            this.btnXoa.Text = "xóa";
+            this.btnXoa.UseColumnTextForButtonValue = true;
+            // 
+            // lblTongTien
+            // 
+            resources.ApplyResources(this.lblTongTien, "lblTongTien");
+            this.lblTongTien.Name = "lblTongTien";
+            // 
+            // txtGiamGia
+            // 
+            resources.ApplyResources(this.txtGiamGia, "txtGiamGia");
+            this.txtGiamGia.Name = "txtGiamGia";
+            this.txtGiamGia.TextChanged += new System.EventHandler(this.txtGiamGia_TextChanged);
+            // 
+            // lblThanhTien
+            // 
+            resources.ApplyResources(this.lblThanhTien, "lblThanhTien");
+            this.lblThanhTien.Name = "lblThanhTien";
+            // 
+            // btnTaoHoaDon
+            // 
+            resources.ApplyResources(this.btnTaoHoaDon, "btnTaoHoaDon");
+            this.btnTaoHoaDon.Name = "btnTaoHoaDon";
+            this.btnTaoHoaDon.UseVisualStyleBackColor = true;
+            this.btnTaoHoaDon.Click += new System.EventHandler(this.btnTaoHoaDon_Click);
+            // 
+            // btnHuyHoaDon
+            // 
+            resources.ApplyResources(this.btnHuyHoaDon, "btnHuyHoaDon");
+            this.btnHuyHoaDon.Name = "btnHuyHoaDon";
+            this.btnHuyHoaDon.UseVisualStyleBackColor = true;
+            this.btnHuyHoaDon.Click += new System.EventHandler(this.btnHuyHoaDon_Click);
+            // 
+            // label1
+            // 
+            resources.ApplyResources(this.label1, "label1");
+            this.label1.Name = "label1";
+            // 
+            // label2
+            // 
+            resources.ApplyResources(this.label2, "label2");
+            this.label2.Name = "label2";
+            // 
+            // label3
+            // 
+            resources.ApplyResources(this.label3, "label3");
+            this.label3.Name = "label3";
+            // 
+            // label4
+            // 
+            resources.ApplyResources(this.label4, "label4");
+            this.label4.Name = "label4";
+            // 
+            // label5
+            // 
+            resources.ApplyResources(this.label5, "label5");
+            this.label5.Name = "label5";
+            // 
+            // label6
+            // 
+            resources.ApplyResources(this.label6, "label6");
+            this.label6.Name = "label6";
+            // 
+            // label7
+            // 
+            resources.ApplyResources(this.label7, "label7");
+            this.label7.Name = "label7";
+            // 
+            // label8
+            // 
+            resources.ApplyResources(this.label8, "label8");
+            this.label8.Name = "label8";
+            this.label8.Click += new System.EventHandler(this.label8_Click);
+            // 
+            // label9
+            // 
+            resources.ApplyResources(this.label9, "label9");
+            this.label9.Name = "label9";
+            // 
+            // label10
+            // 
+            resources.ApplyResources(this.label10, "label10");
+            this.label10.Name = "label10";
+            // 
+            // label11
+            // 
+            resources.ApplyResources(this.label11, "label11");
+            this.label11.Name = "label11";
+            // 
+            // label12
+            // 
+            resources.ApplyResources(this.label12, "label12");
+            this.label12.Name = "label12";
+            // 
+            // label13
+            // 
+            resources.ApplyResources(this.label13, "label13");
+            this.label13.Name = "label13";
+            // 
+            // label14
+            // 
+            resources.ApplyResources(this.label14, "label14");
+            this.label14.Name = "label14";
+            // 
+            // label15
+            // 
+            resources.ApplyResources(this.label15, "label15");
+            this.label15.Name = "label15";
             // 
             // frmHoaDon
             // 
             resources.ApplyResources(this, "$this");
+            this.Controls.Add(this.label15);
+            this.Controls.Add(this.label14);
+            this.Controls.Add(this.label13);
+            this.Controls.Add(this.label12);
+            this.Controls.Add(this.label11);
+            this.Controls.Add(this.label10);
+            this.Controls.Add(this.label9);
+            this.Controls.Add(this.label8);
+            this.Controls.Add(this.label7);
+            this.Controls.Add(this.label6);
+            this.Controls.Add(this.label5);
+            this.Controls.Add(this.label4);
+            this.Controls.Add(this.label3);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.label1);
+            this.Controls.Add(this.btnHuyHoaDon);
+            this.Controls.Add(this.btnTaoHoaDon);
+            this.Controls.Add(this.lblThanhTien);
+            this.Controls.Add(this.txtGiamGia);
+            this.Controls.Add(this.lblTongTien);
+            this.Controls.Add(this.dgvGioHang);
+            this.Controls.Add(this.btnThemSanPham);
+            this.Controls.Add(this.nudSoLuong);
+            this.Controls.Add(this.lblDonGia);
+            this.Controls.Add(this.lblTenSP);
+            this.Controls.Add(this.btnTimSanPham);
+            this.Controls.Add(this.txtTimMaSP);
+            this.Controls.Add(this.btnTimKhachHang);
+            this.Controls.Add(this.txtTenKH);
+            this.Controls.Add(this.txtMaKH);
+            this.Controls.Add(this.txtSoDienThoai);
+            this.Controls.Add(this.lblTenNV);
+            this.Controls.Add(this.lblMaHD);
+            this.Controls.Add(this.lblNgayLap);
             this.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.Name = "frmHoaDon";
             this.UseWaitCursor = true;
             this.Load += new System.EventHandler(this.frmHoaDon_Load_1);
             this.Layout += new System.Windows.Forms.LayoutEventHandler(this.frmHoaDon_Layout);
+            ((System.ComponentModel.ISupportInitialize)(this.nudSoLuong)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvGioHang)).EndInit();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -332,6 +652,26 @@ namespace QuanLyCuaHangBanQuanAo.GUI
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
             
+        }
+
+        private void backgroundWorker1_DoWork(object sender, DoWorkEventArgs e)
+        {
+
+        }
+
+        private void btnThemSanPham_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtTenKH_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label8_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

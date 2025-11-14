@@ -1,26 +1,22 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
-using QuanLyCuaHangBanQuanAo.DTO;
-using QuanLyCuaHangBanQuanAo.DAL;
+using QuanLyCuaHangBanQuanAo.DAL; // <-- Thêm dòng này
+using DTOTaiKhoan = QuanLyCuaHangBanQuanAo.DTO.TaiKhoan; // Sửa lỗi "ambiguous"
 
 namespace QuanLyCuaHangBanQuanAo.GUI
 {
     public partial class frmMain : Form
     {
-        private TaiKhoan currentUser;
+        private DTOTaiKhoan currentUser; // Sửa: Dùng DTO.TaiKhoan
 
         public frmMain()
         {
             InitializeComponent();
         }
-        public frmMain(TaiKhoan user) : this()
+
+        // Sửa: Dùng DTO.TaiKhoan
+        public frmMain(DTOTaiKhoan user) : this()
         {
             currentUser = user;
         }
@@ -30,7 +26,7 @@ namespace QuanLyCuaHangBanQuanAo.GUI
             ApplyUserPermissions();
         }
 
-        // ĐÃ SỬA LẠI HÀM NÀY
+        // Sửa: Logic quyền và tên hiển thị
         private void ApplyUserPermissions()
         {
             if (currentUser == null)
@@ -39,69 +35,38 @@ namespace QuanLyCuaHangBanQuanAo.GUI
                 return;
             }
 
-            // Sửa: Dùng TenDangNhap (từ DTO/TaiKhoan.cs đã sửa)
+            // Sửa: Dùng TenDangNhap
             labelUsername.Text = currentUser.TenDangNhap;
             labelStatus.Text = $"Xin chào: {currentUser.TenDangNhap}";
 
-            // Sửa: Lấy quyền (role) từ CSDL dựa trên MaQuyen
-            string userRole = "user"; // Mặc định là user
+            string userRole = "user"; // Mặc định
             try
             {
-                using (var db = new QuanLyCuaHangBanQuanAo.DAL.QuanLyCuaHangDataContextDataContext())
+                // Sửa: Dùng tên DataContext đúng
+                using (var db = new QuanLyCuaHangDataContext())
                 {
-                    // Tìm tên quyền dựa trên MaQuyen của người dùng
                     var quyen = db.PhanQuyens.FirstOrDefault(q => q.MaQuyen == currentUser.MaQuyen);
-                    if (quyen != null)
-                    {
-                        userRole = quyen.TenQuyen; // Ví dụ: "admin", "user"
-                    }
+                    if (quyen != null) { userRole = quyen.TenQuyen; }
                 }
             }
-            catch (Exception ex)
-            {
-                MessageBox.Show("Lỗi khi tải quyền: " + ex.Message);
-            }
+            catch (Exception ex) { MessageBox.Show("Lỗi khi tải quyền: " + ex.Message); }
 
-            bool isAdmin = string.Equals(userRole ?? string.Empty, "admin", StringComparison.OrdinalIgnoreCase);
-
-            if (!isAdmin)
-            {
-                buttonPhanQuyen.Visible = false;
-            }
-            else
-            {
-                buttonPhanQuyen.Visible = true;
-            }
+            // Sửa: Thêm "using System;" ở đầu tệp (nếu báo lỗi StringComparison)
+            bool isAdmin = string.Equals(userRole, "admin", StringComparison.OrdinalIgnoreCase);
+            buttonPhanQuyen.Visible = isAdmin;
         }
 
-        private void labelUsername_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void buttonTongQuan_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void labelDateTime_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void panelMain_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
+        // (Các hàm sự kiện trống khác)
+        private void labelUsername_Click(object sender, EventArgs e) { }
+        private void buttonTongQuan_Click(object sender, EventArgs e) { }
+        private void labelDateTime_Click(object sender, EventArgs e) { }
+        private void panelMain_Paint(object sender, PaintEventArgs e) { }
+        private void labelTitle2_Click(object sender, EventArgs e) { }
+        private void panelTop_Paint(object sender, PaintEventArgs e) { }
 
         private void timerDateTime_Tick(object sender, EventArgs e)
         {
             labelDateTime.Text = "Hôm nay: " + DateTime.Now.ToString("dd/MM/yyyy HH:mm:ss");
-        }
-
-        private void labelTitle2_Click(object sender, EventArgs e)
-        {
-
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -120,18 +85,13 @@ namespace QuanLyCuaHangBanQuanAo.GUI
             }
         }
 
-        private void panelTop_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
-
         private void buttonGioiThieu_Click(object sender, EventArgs e)
         {
             frmGioiThieu gioiThieu = new frmGioiThieu();
             gioiThieu.ShowDialog();
         }
 
-        // ĐÃ SỬA LẠI HÀM NÀY
+        // Sửa: Dùng TenDangNhap
         private void buttonDoiMatKhau_Click(object sender, EventArgs e)
         {
             if (currentUser == null)
@@ -140,21 +100,20 @@ namespace QuanLyCuaHangBanQuanAo.GUI
                 return;
             }
 
-            // Sửa: Dùng TenDangNhap
             frmDoiMatKhau doiMatKhau = new frmDoiMatKhau(currentUser.TenDangNhap);
             doiMatKhau.ShowDialog();
         }
 
         private void buttonBanHang_Click(object sender, EventArgs e)
         {
-            // Sửa: Truyền currentUser vào frmHoaDon
             if (currentUser == null)
             {
                 MessageBox.Show("Lỗi: Không thể xác định người dùng.", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
             }
 
-            frmHoaDon frmHD = new frmHoaDon(currentUser); // Truyền thông tin người dùng
+            // Sửa: Truyền currentUser (đã đúng kiểu DTO)
+            frmHoaDon frmHD = new frmHoaDon(currentUser);
             frmHD.ShowDialog();
         }
     }

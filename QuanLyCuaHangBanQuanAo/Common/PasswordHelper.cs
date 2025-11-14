@@ -1,5 +1,6 @@
 ﻿using System.Security.Cryptography;
 using System.Text;
+using System; // Add this using directive to fix CS0103
 
 namespace QuanLyCuaHangBanQuanAo.Common
 {

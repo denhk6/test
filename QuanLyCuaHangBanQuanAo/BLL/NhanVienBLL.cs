@@ -110,7 +110,7 @@ namespace QuanLyCuaHangBanQuanAo.BLL
                     nvDAL.NgayVaoLam = nvDTO.NgayVaoLam;
 
                     // 2. Cập nhật TaiKhoan
-                    DAL.TaiKhoan tkDAL = db.TaiKhoans.Single(tk => tk.MaNhanVien == nvDTO.MaNV);
+                    DAL.TaiKhoan tkDAL = db.TaiKhoans.Single(tk => Convert.ToInt32(tk.MaNhanVien) == nvDTO.MaNV);
                     tkDAL.TenDangNhap = tkDTO.TenDangNhap;
                     tkDAL.MaQuyen = tkDTO.MaQuyen;
                     // Chỉ cập nhật mật khẩu nếu người dùng nhập mật khẩu mới
@@ -142,7 +142,7 @@ namespace QuanLyCuaHangBanQuanAo.BLL
                 try
                 {
                     // Xóa tài khoản
-                    DAL.TaiKhoan tkDAL = db.TaiKhoans.Single(tk => tk.MaNhanVien == maNV);
+                    DAL.TaiKhoan tkDAL = db.TaiKhoans.Single(tk => Convert.ToInt32(tk.MaNhanVien) == maNV);
                     db.TaiKhoans.DeleteOnSubmit(tkDAL);
 
                     // Xóa nhân viên

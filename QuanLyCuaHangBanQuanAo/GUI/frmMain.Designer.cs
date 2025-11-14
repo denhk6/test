@@ -110,7 +110,7 @@
             this.panelTop.Location = new System.Drawing.Point(0, 0);
             this.panelTop.Margin = new System.Windows.Forms.Padding(6, 7, 6, 7);
             this.panelTop.Name = "panelTop";
-            this.panelTop.Size = new System.Drawing.Size(1348, 52);
+            this.panelTop.Size = new System.Drawing.Size(1518, 52);
             this.panelTop.TabIndex = 0;
             this.panelTop.Paint += new System.Windows.Forms.PaintEventHandler(this.panelTop_Paint);
             // 
@@ -120,9 +120,9 @@
             this.labelUsername.AutoSize = true;
             this.labelUsername.Font = new System.Drawing.Font("Arial", 16F, System.Drawing.FontStyle.Bold);
             this.labelUsername.ForeColor = System.Drawing.Color.White;
-            this.labelUsername.Location = new System.Drawing.Point(1083, 13);
+            this.labelUsername.Location = new System.Drawing.Point(1253, 13);
             this.labelUsername.Name = "labelUsername";
-            this.labelUsername.Size = new System.Drawing.Size(60, 26);
+            this.labelUsername.Size = new System.Drawing.Size(88, 37);
             this.labelUsername.TabIndex = 0;
             this.labelUsername.Text = "User";
             this.labelUsername.Click += new System.EventHandler(this.labelUsername_Click);
@@ -147,7 +147,7 @@
             this.labelTitle.Location = new System.Drawing.Point(69, 13);
             this.labelTitle.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.labelTitle.Name = "labelTitle";
-            this.labelTitle.Size = new System.Drawing.Size(344, 26);
+            this.labelTitle.Size = new System.Drawing.Size(495, 37);
             this.labelTitle.TabIndex = 0;
             this.labelTitle.Text = "QUẢN LÝ CỬA HÀNG QUẦN ÁO";
             // 
@@ -159,7 +159,7 @@
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.Font = new System.Drawing.Font("Arial", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(137)))), ((int)(((byte)(239)))));
-            this.button1.Location = new System.Drawing.Point(1243, 10);
+            this.button1.Location = new System.Drawing.Point(1413, 10);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(101, 30);
             this.button1.TabIndex = 0;
@@ -399,7 +399,7 @@
             this.panelBottom.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.panelBottom.Location = new System.Drawing.Point(200, 691);
             this.panelBottom.Name = "panelBottom";
-            this.panelBottom.Size = new System.Drawing.Size(1148, 30);
+            this.panelBottom.Size = new System.Drawing.Size(1318, 30);
             this.panelBottom.TabIndex = 0;
             // 
             // labelDateTime
@@ -408,9 +408,9 @@
             this.labelDateTime.AutoSize = true;
             this.labelDateTime.Font = new System.Drawing.Font("Arial", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelDateTime.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(51)))), ((int)(((byte)(51)))));
-            this.labelDateTime.Location = new System.Drawing.Point(914, 4);
+            this.labelDateTime.Location = new System.Drawing.Point(1007, 3);
             this.labelDateTime.Name = "labelDateTime";
-            this.labelDateTime.Size = new System.Drawing.Size(206, 17);
+            this.labelDateTime.Size = new System.Drawing.Size(308, 25);
             this.labelDateTime.TabIndex = 0;
             this.labelDateTime.Text = "Hôm nay: 00/00/0000 00:00:00\r\n";
             this.labelDateTime.Click += new System.EventHandler(this.labelDateTime_Click);
@@ -422,7 +422,7 @@
             this.labelStatus.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(51)))), ((int)(((byte)(51)))));
             this.labelStatus.Location = new System.Drawing.Point(15, 7);
             this.labelStatus.Name = "labelStatus";
-            this.labelStatus.Size = new System.Drawing.Size(103, 17);
+            this.labelStatus.Size = new System.Drawing.Size(154, 25);
             this.labelStatus.TabIndex = 0;
             this.labelStatus.Text = "Xin chào: User";
             // 
@@ -436,7 +436,7 @@
             this.panelMain.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panelMain.Location = new System.Drawing.Point(200, 52);
             this.panelMain.Name = "panelMain";
-            this.panelMain.Size = new System.Drawing.Size(1148, 639);
+            this.panelMain.Size = new System.Drawing.Size(1318, 639);
             this.panelMain.TabIndex = 1;
             this.panelMain.Paint += new System.Windows.Forms.PaintEventHandler(this.panelMain_Paint);
             // 
@@ -467,7 +467,7 @@
             this.labelGridTitle.Font = new System.Drawing.Font("Arial", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelGridTitle.Location = new System.Drawing.Point(15, 10);
             this.labelGridTitle.Name = "labelGridTitle";
-            this.labelGridTitle.Size = new System.Drawing.Size(59, 18);
+            this.labelGridTitle.Size = new System.Drawing.Size(83, 26);
             this.labelGridTitle.TabIndex = 0;
             this.labelGridTitle.Text = "Chi tiết";
             // 
@@ -509,7 +509,7 @@
             this.labelChartTitle.ForeColor = System.Drawing.Color.Black;
             this.labelChartTitle.Location = new System.Drawing.Point(15, 10);
             this.labelChartTitle.Name = "labelChartTitle";
-            this.labelChartTitle.Size = new System.Drawing.Size(75, 18);
+            this.labelChartTitle.Size = new System.Drawing.Size(109, 26);
             this.labelChartTitle.TabIndex = 0;
             this.labelChartTitle.Text = "Thống kê";
             // 
@@ -531,7 +531,7 @@
             this.labelTitle2.ForeColor = System.Drawing.Color.White;
             this.labelTitle2.Location = new System.Drawing.Point(70, 15);
             this.labelTitle2.Name = "labelTitle2";
-            this.labelTitle2.Size = new System.Drawing.Size(90, 15);
+            this.labelTitle2.Size = new System.Drawing.Size(135, 21);
             this.labelTitle2.TabIndex = 0;
             this.labelTitle2.Text = "🛒Số đơn hàng";
             this.labelTitle2.Click += new System.EventHandler(this.labelTitle2_Click);
@@ -543,7 +543,7 @@
             this.labelValue2.ForeColor = System.Drawing.Color.White;
             this.labelValue2.Location = new System.Drawing.Point(70, 35);
             this.labelValue2.Name = "labelValue2";
-            this.labelValue2.Size = new System.Drawing.Size(76, 29);
+            this.labelValue2.Size = new System.Drawing.Size(112, 43);
             this.labelValue2.TabIndex = 0;
             this.labelValue2.Text = "Vaule";
             // 
@@ -566,7 +566,7 @@
             this.panelCards.Location = new System.Drawing.Point(0, 0);
             this.panelCards.Name = "panelCards";
             this.panelCards.Padding = new System.Windows.Forms.Padding(10);
-            this.panelCards.Size = new System.Drawing.Size(1148, 110);
+            this.panelCards.Size = new System.Drawing.Size(1318, 110);
             this.panelCards.TabIndex = 0;
             // 
             // panelCard4
@@ -587,7 +587,7 @@
             this.labelTitle4.ForeColor = System.Drawing.Color.White;
             this.labelTitle4.Location = new System.Drawing.Point(70, 15);
             this.labelTitle4.Name = "labelTitle4";
-            this.labelTitle4.Size = new System.Drawing.Size(150, 15);
+            this.labelTitle4.Size = new System.Drawing.Size(226, 21);
             this.labelTitle4.TabIndex = 0;
             this.labelTitle4.Text = "🎁Khuyến mãi / Sp tồn kho";
             // 
@@ -598,7 +598,7 @@
             this.labelValue4.ForeColor = System.Drawing.Color.White;
             this.labelValue4.Location = new System.Drawing.Point(70, 35);
             this.labelValue4.Name = "labelValue4";
-            this.labelValue4.Size = new System.Drawing.Size(76, 29);
+            this.labelValue4.Size = new System.Drawing.Size(112, 43);
             this.labelValue4.TabIndex = 0;
             this.labelValue4.Text = "Vaule";
             // 
@@ -630,7 +630,7 @@
             this.labelTitle3.ForeColor = System.Drawing.Color.White;
             this.labelTitle3.Location = new System.Drawing.Point(70, 15);
             this.labelTitle3.Name = "labelTitle3";
-            this.labelTitle3.Size = new System.Drawing.Size(83, 15);
+            this.labelTitle3.Size = new System.Drawing.Size(127, 21);
             this.labelTitle3.TabIndex = 0;
             this.labelTitle3.Text = "👤Khách hàng";
             // 
@@ -641,7 +641,7 @@
             this.labelValue3.ForeColor = System.Drawing.Color.White;
             this.labelValue3.Location = new System.Drawing.Point(70, 35);
             this.labelValue3.Name = "labelValue3";
-            this.labelValue3.Size = new System.Drawing.Size(76, 29);
+            this.labelValue3.Size = new System.Drawing.Size(112, 43);
             this.labelValue3.TabIndex = 0;
             this.labelValue3.Text = "Vaule";
             // 
@@ -673,7 +673,7 @@
             this.labelValue1.ForeColor = System.Drawing.Color.White;
             this.labelValue1.Location = new System.Drawing.Point(70, 35);
             this.labelValue1.Name = "labelValue1";
-            this.labelValue1.Size = new System.Drawing.Size(76, 29);
+            this.labelValue1.Size = new System.Drawing.Size(112, 43);
             this.labelValue1.TabIndex = 0;
             this.labelValue1.Text = "Value";
             // 
@@ -684,7 +684,7 @@
             this.labelTitle1.ForeColor = System.Drawing.Color.White;
             this.labelTitle1.Location = new System.Drawing.Point(70, 15);
             this.labelTitle1.Name = "labelTitle1";
-            this.labelTitle1.Size = new System.Drawing.Size(74, 15);
+            this.labelTitle1.Size = new System.Drawing.Size(114, 21);
             this.labelTitle1.TabIndex = 0;
             this.labelTitle1.Text = "💰Doanh thu";
             // 
@@ -706,9 +706,9 @@
             // 
             // frmMain
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 24F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(18F, 36F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1348, 721);
+            this.ClientSize = new System.Drawing.Size(1518, 721);
             this.Controls.Add(this.panelMain);
             this.Controls.Add(this.panelBottom);
             this.Controls.Add(this.panelLeft);

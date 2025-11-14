@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Collections.Generic;
 using QuanLyCuaHangBanQuanAo.DAL;
-using QuanLyCuaHangBanQuanAo.Common; // Sẽ cần ở Bước 2
+using QuanLyCuaHangBanQuanAo.Common;
 using DALTaiKhoan = QuanLyCuaHangBanQuanAo.DAL.TaiKhoan;
 using DTOTaiKhoan = QuanLyCuaHangBanQuanAo.DTO.TaiKhoan;
 
@@ -23,20 +23,17 @@ namespace QuanLyCuaHangBanQuanAo.BLL
             };
         }
 
-        // KiemTraDangNhap (Sửa logic)
+        // KiemTraDangNhap
         public bool KiemTraDangNhap(string tenDangNhap, string matKhau)
         {
             try
             {
-                using (QuanLyCuaHangDataContextDataContext db = new QuanLyCuaHangDataContextDataContext())
+                // Sửa: Dùng tên CSDL đúng (không lặp)
+                using (QuanLyCuaHangDataContext db = new QuanLyCuaHangDataContext())
                 {
                     var entity = db.TaiKhoans.FirstOrDefault(x => x.TenDangNhap == tenDangNhap);
-                    if (entity == null)
-                    {
-                        return false; // Không tìm thấy tài khoản
-                    }
+                    if (entity == null) return false;
 
-                    // Xác thực mật khẩu đã hash (Sẽ sửa ở Bước 2)
                     return PasswordHelper.VerifyPassword(matKhau, entity.MatKhau);
                 }
             }
@@ -46,12 +43,13 @@ namespace QuanLyCuaHangBanQuanAo.BLL
             }
         }
 
-        // LayThongTinTaiKhoan (Sửa logic)
+        // LayThongTinTaiKhoan
         public DTOTaiKhoan LayThongTinTaiKhoan(string tenDangNhap)
         {
             try
             {
-                using (QuanLyCuaHangDataContextDataContext db = new QuanLyCuaHangDataContextDataContext())
+                // Sửa: Dùng tên CSDL đúng
+                using (QuanLyCuaHangDataContext db = new QuanLyCuaHangDataContext())
                 {
                     var entity = db.TaiKhoans.FirstOrDefault(x => x.TenDangNhap == tenDangNhap);
                     return EntityToDTO(entity);
@@ -63,12 +61,13 @@ namespace QuanLyCuaHangBanQuanAo.BLL
             }
         }
 
-        // DoiMatKhau (Sửa logic)
+        // DoiMatKhau
         public bool DoiMatKhau(string tenDangNhap, string mkCu, string mkMoi)
         {
             try
             {
-                using (QuanLyCuaHangDataContextDataContext db = new QuanLyCuaHangDataContextDataContext())
+                // Sửa: Dùng tên CSDL đúng
+                using (QuanLyCuaHangDataContext db = new QuanLyCuaHangDataContext())
                 {
                     var entity = db.TaiKhoans.FirstOrDefault(x => x.TenDangNhap == tenDangNhap);
                     if (entity == null)

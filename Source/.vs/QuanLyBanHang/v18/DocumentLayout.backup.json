@@ -1,0 +1,568 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\quanlybanhang\\frmuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\quanlybanhang\\frmthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\quanlybanhang\\frmtkdtt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmtkdtt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\quanlybanhang\\formindsdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\formindsdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\quanlybanhang\\formgioithieuthanhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\formgioithieuthanhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\quanlybanhang\\formgioithieuthanhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\formgioithieuthanhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|d:\\dang\\code\\da_ptpm_nhom_3_themreport\\source\\quanlybanhang\\frmqlnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmqlnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|d:\\dang\\code\\da_ptpm_nhom_3_themreport\\source\\quanlybanhang\\formgioithieuthanhvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\formgioithieuthanhvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\quanlybanhang\\frmqlnhasanxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmqlnhasanxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\quanlybanhang\\frmqlsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmqlsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\quanlybanhang\\frmtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\quanlybanhang\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\quanlybanhang\\frmchitietphieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmchitietphieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\quanlybanhang\\frmbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\quanlybanhang\\forminhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\forminhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\quanlybanhang\\formindsnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\formindsnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\quanlybanhang\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\quanlybanhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\quanlybanhang\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\quanlybanhang\\ptpm_qlbanhangdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\ptpm_qlbanhangdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\quanlybanhang\\ptpm_qlbanhangdataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\ptpm_qlbanhangdataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\quanlybanhang\\receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\quanlybanhang\\receipt.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\receipt.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\quanlybanhang\\uclogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\uclogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\quanlybanhang\\frmtkdtt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmtkdtt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\quanlybanhang\\frmdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\quanlybanhang\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\quanlybanhang\\frmqlloaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmqlloaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\quanlybanhang\\frmqlkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmqlkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\quanlybanhang\\frmnhapkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmnhapkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\quanlybanhang\\dbquanlybanhang.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
+      "RelativeMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\dbquanlybanhang.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\quanlybanhang\\reports\\rptdsdonhang.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\reports\\rptdsdonhang.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\quanlybanhang\\reports\\rptdsnhanvien.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\reports\\rptdsnhanvien.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\quanlybanhang\\frmdangnhap.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmdangnhap.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\quanlybanhang\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\quanlybanhang\\frmdangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E5D3A4-A774-4F57-869F-2B6A2DD65110}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmdangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormInDSDonHang.cs [Design]",
+              "DocumentMoniker": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\FormInDSDonHang.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\FormInDSDonHang.cs",
+              "ToolTip": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\FormInDSDonHang.cs [Design]",
+              "RelativeToolTip": "QuanLyBanHang\\FormInDSDonHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T15:46:30.863Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmTKDTT.cs [Design]",
+              "DocumentMoniker": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\FrmTKDTT.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\FrmTKDTT.cs",
+              "ToolTip": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\FrmTKDTT.cs [Design]",
+              "RelativeToolTip": "QuanLyBanHang\\FrmTKDTT.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T15:46:30.847Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmThongKe.cs [Design]",
+              "DocumentMoniker": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\FrmThongKe.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\FrmThongKe.cs",
+              "ToolTip": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\FrmThongKe.cs [Design]",
+              "RelativeToolTip": "QuanLyBanHang\\FrmThongKe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T15:46:30.856Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmUser.cs [Design]",
+              "DocumentMoniker": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\FrmUser.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\FrmUser.cs",
+              "ToolTip": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\FrmUser.cs [Design]",
+              "RelativeToolTip": "QuanLyBanHang\\FrmUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T15:46:30.857Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormGioiThieuThanhVien.cs [Design]",
+              "DocumentMoniker": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\FormGioiThieuThanhVien.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\FormGioiThieuThanhVien.cs",
+              "ToolTip": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\FormGioiThieuThanhVien.cs [Design]",
+              "RelativeToolTip": "QuanLyBanHang\\FormGioiThieuThanhVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T15:46:30.853Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormGioiThieuThanhVien.cs",
+              "DocumentMoniker": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\FormGioiThieuThanhVien.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\FormGioiThieuThanhVien.cs",
+              "ToolTip": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\FormGioiThieuThanhVien.cs",
+              "RelativeToolTip": "QuanLyBanHang\\FormGioiThieuThanhVien.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAMwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T15:46:30.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmQLNhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\FrmQLNhanVien.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\FrmQLNhanVien.cs",
+              "ToolTip": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\FrmQLNhanVien.cs [Design]",
+              "RelativeToolTip": "QuanLyBanHang\\FrmQLNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T15:46:30.853Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormGioiThieuThanhVien.Designer.cs",
+              "DocumentMoniker": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\FormGioiThieuThanhVien.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\FormGioiThieuThanhVien.Designer.cs",
+              "ToolTip": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\FormGioiThieuThanhVien.Designer.cs",
+              "RelativeToolTip": "QuanLyBanHang\\FormGioiThieuThanhVien.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T15:53:10.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmQLSanPham.cs [Design]",
+              "DocumentMoniker": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\FrmQLSanPham.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\FrmQLSanPham.cs",
+              "ToolTip": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\FrmQLSanPham.cs [Design]",
+              "RelativeToolTip": "QuanLyBanHang\\FrmQLSanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T15:46:30.849Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmTaiKhoan.cs [Design]",
+              "DocumentMoniker": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\FrmTaiKhoan.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\FrmTaiKhoan.cs",
+              "ToolTip": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\FrmTaiKhoan.cs [Design]",
+              "RelativeToolTip": "QuanLyBanHang\\FrmTaiKhoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T15:46:30.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmQLNhaSanXuat.cs [Design]",
+              "DocumentMoniker": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\FrmQLNhaSanXuat.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\FrmQLNhaSanXuat.cs",
+              "ToolTip": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\FrmQLNhaSanXuat.cs [Design]",
+              "RelativeToolTip": "QuanLyBanHang\\FrmQLNhaSanXuat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T15:46:30.851Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmDangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\FrmDangNhap.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\FrmDangNhap.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\FrmDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-16T15:46:30.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmChiTietPhieuNhap.cs [Design]",
+              "DocumentMoniker": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\FrmChiTietPhieuNhap.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\FrmChiTietPhieuNhap.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\FrmChiTietPhieuNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-16T15:46:30.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmBanHang.cs [Design]",
+              "DocumentMoniker": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\FrmBanHang.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\FrmBanHang.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\FrmBanHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-16T15:46:30.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormInHoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\FormInHoaDon.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\FormInHoaDon.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\FormInHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-16T15:46:30.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormInDSNhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\FormInDSNhanVien.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\FormInDSNhanVien.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\FormInDSNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-16T15:46:30.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\Program.cs",
+              "ToolTip": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\Program.cs",
+              "RelativeToolTip": "QuanLyBanHang\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T15:46:30.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\Connection.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\Connection.cs",
+              "ToolTip": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\Connection.cs",
+              "RelativeToolTip": "QuanLyBanHang\\Connection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T15:46:30.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Model.cs",
+              "DocumentMoniker": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\Model.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\Model.cs",
+              "ToolTip": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\Model.cs",
+              "RelativeToolTip": "QuanLyBanHang\\Model.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T15:46:30.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PTPM_QLBanHangDataSet.xsd",
+              "DocumentMoniker": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\PTPM_QLBanHangDataSet.xsd",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\PTPM_QLBanHangDataSet.xsd",
+              "ToolTip": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\PTPM_QLBanHangDataSet.xsd",
+              "RelativeToolTip": "QuanLyBanHang\\PTPM_QLBanHangDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-11-16T15:46:30.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PTPM_QLBanHangDataSet1.xsd",
+              "DocumentMoniker": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\PTPM_QLBanHangDataSet1.xsd",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\PTPM_QLBanHangDataSet1.xsd",
+              "ToolTip": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\PTPM_QLBanHangDataSet1.xsd",
+              "RelativeToolTip": "QuanLyBanHang\\PTPM_QLBanHangDataSet1.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-11-16T15:46:30.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Receipt.cs",
+              "DocumentMoniker": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\Receipt.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\Receipt.cs",
+              "ToolTip": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\Receipt.cs",
+              "RelativeToolTip": "QuanLyBanHang\\Receipt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T15:46:30.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FrmTKDTT.cs",
+              "DocumentMoniker": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\FrmTKDTT.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\FrmTKDTT.cs",
+              "ToolTip": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\FrmTKDTT.cs",
+              "RelativeToolTip": "QuanLyBanHang\\FrmTKDTT.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAlwDYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T15:46:30.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FrmDonHang.cs [Design]",
+              "DocumentMoniker": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\FrmDonHang.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\FrmDonHang.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\FrmDonHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T15:46:30.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UCLogin.cs [Design]",
+              "DocumentMoniker": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\UCLogin.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\UCLogin.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\UCLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T15:46:30.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Receipt.rdlc [Design]",
+              "DocumentMoniker": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\Receipt.rdlc",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\Receipt.rdlc",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\Receipt.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-11-16T15:46:30.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\packages.config",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\packages.config",
+              "ToolTip": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\packages.config",
+              "RelativeToolTip": "QuanLyBanHang\\packages.config",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-16T15:46:30.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FrmQLLoaiSanPham.cs [Design]",
+              "DocumentMoniker": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\FrmQLLoaiSanPham.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\FrmQLLoaiSanPham.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\FrmQLLoaiSanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T15:46:30.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FrmQLKhachHang.cs [Design]",
+              "DocumentMoniker": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\FrmQLKhachHang.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\FrmQLKhachHang.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\FrmQLKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T15:46:30.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FrmNhapKho.cs [Design]",
+              "DocumentMoniker": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\FrmNhapKho.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\FrmNhapKho.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\FrmNhapKho.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T15:46:30.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DBQuanLyBanHang.dbml",
+              "DocumentMoniker": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\DBQuanLyBanHang.dbml",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\DBQuanLyBanHang.dbml",
+              "ToolTip": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\DBQuanLyBanHang.dbml",
+              "RelativeToolTip": "QuanLyBanHang\\DBQuanLyBanHang.dbml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2025-11-16T15:46:30.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RptDSDonHang.rdlc [Design]",
+              "DocumentMoniker": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\Reports\\RptDSDonHang.rdlc",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\Reports\\RptDSDonHang.rdlc",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\Reports\\RptDSDonHang.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-11-16T15:46:30.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RptDSNhanVien.rdlc [Design]",
+              "DocumentMoniker": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\Reports\\RptDSNhanVien.rdlc",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\Reports\\RptDSNhanVien.rdlc",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\Reports\\RptDSNhanVien.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-11-16T15:46:30.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FrmDangNhap.resx",
+              "DocumentMoniker": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\FrmDangNhap.resx",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\FrmDangNhap.resx",
+              "ToolTip": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\FrmDangNhap.resx",
+              "RelativeToolTip": "QuanLyBanHang\\FrmDangNhap.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2025-11-16T15:46:30.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FrmDangNhap.cs",
+              "DocumentMoniker": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\FrmDangNhap.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\FrmDangNhap.cs",
+              "ToolTip": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\FrmDangNhap.cs",
+              "RelativeToolTip": "QuanLyBanHang\\FrmDangNhap.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwB0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-16T15:46:30.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FrmDangNhap.Designer.cs",
+              "DocumentMoniker": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\FrmDangNhap.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\FrmDangNhap.Designer.cs",
+              "ToolTip": "D:\\dang\\code\\DA_PTPM_NHOM_3_ThemReport\\Source\\QuanLyBanHang\\FrmDangNhap.Designer.cs",
+              "RelativeToolTip": "QuanLyBanHang\\FrmDangNhap.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2025-11-16T15:46:30.891Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
